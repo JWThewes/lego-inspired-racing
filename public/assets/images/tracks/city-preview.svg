@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#2a4a6a"/>
+
+  <!-- Buildings -->
+  <rect x="20" y="80" width="60" height="180" fill="#4a5a6a" stroke="#2a3a4a" stroke-width="2"/>
+  <rect x="100" y="120" width="50" height="140" fill="#5a6a7a" stroke="#3a4a5a" stroke-width="2"/>
+  <rect x="320" y="60" width="70" height="200" fill="#3a4a5a" stroke="#1a2a3a" stroke-width="2"/>
+  <rect x="240" y="100" width="60" height="160" fill="#4a5a6a" stroke="#2a3a4a" stroke-width="2"/>
+
+  <!-- Road/Track -->
+  <path d="M 50 260 L 150 260 L 150 200 L 250 200 L 250 260 L 350 260"
+        fill="none" stroke="#404040" stroke-width="40"/>
+  <path d="M 50 260 L 150 260 L 150 200 L 250 200 L 250 260 L 350 260"
+        fill="none" stroke="#FFD700" stroke-width="3" stroke-dasharray="10,10"/>
+
+  <!-- Title -->
+  <text x="200" y="40" font-family="Arial, sans-serif" font-size="28" font-weight="bold"
+        fill="#FFD700" text-anchor="middle">CITY CIRCUIT</text>
+</svg>
