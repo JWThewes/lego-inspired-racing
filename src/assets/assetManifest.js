@@ -14,10 +14,10 @@ export const assetManifest = {
     // 'ai-car-1': '/assets/models/vehicles/ai-car-1.glb',
     // 'ai-car-2': '/assets/models/vehicles/ai-car-2.glb',
 
-    // Tracks
-    // 'track-city': '/assets/models/tracks/city-track.glb',
-    // 'track-desert': '/assets/models/tracks/desert-track.glb',
-    // 'track-forest': '/assets/models/tracks/forest-track.glb',
+    // Tracks (enabled for track system)
+    'track-city': '/assets/models/tracks/city-track.glb',
+    'track-desert': '/assets/models/tracks/desert-track.glb',
+    'track-forest': '/assets/models/tracks/forest-track.glb',
 
     // Obstacles and props
     // 'obstacle-barrier': '/assets/models/props/barrier.glb',
